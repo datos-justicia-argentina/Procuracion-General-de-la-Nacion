@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación: 01/11/2019**
 
--   **Tags o Etiquetas:** Procuración General de la Nación, casos, código penal, delitos, instituciones
+-   **Tags o Etiquetas:** Procuración General de la Nación, casos, código penal, delitos, instituciones, justicia federal
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
 
@@ -51,9 +51,9 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **caso_id (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso. Si se repiten los números de caso en diferentes unidades de una institución se arma un nuevo identificador concatenando la unidad, un guión y el número de caso remitido, a fin de generar una clave única de caso por provincia
+-   **caso_id (string):** código que identifica el caso
 
--   **circunscripción_id (string):** identificador de la circunscripción a la que pertenece la unidad en que se inició el caso. La circunscripción es la unidad territorial en que se divide la provincia a fin de la administración de justicia
+-   **circunscripción_id (string):** identificador de la circunscripción a la que pertenece la unidad en que se inició el caso
 
 -   **circunscripción_descripcion (string):** descripción de la circunscripción a la que pertenece la unidad en que se inició el caso
 
@@ -73,7 +73,7 @@ Recursos disponibles
 
 -   **caso_cantidad_menores_involucrados_identificados (int):** cantidad numérica de presuntos autores del hecho, que son menores de edad (menores de 18 años)
 
--   **delito_codigo (string):** código del delito denunciado. Algunas provincias utilizan la nomenclatura propuesta por el Ministerio de Justicia y Derechos Humanos de la Nación, [Codificación de delitos del Código Penal Argentino](http://datos.jus.gob.ar/dataset/codificacion-de-delitos-del-codigo-penal-argentino). Otras provincias informan los códigos de delito de sus propios sistemas. En el caso de que el delito informado fuera una descripción, código y descripción toman el mismo valor.
+-   **delito_codigo (string):** código del delito denunciado
 
 -   **delito_descripcion (string):** descripción del delito denunciado
 
