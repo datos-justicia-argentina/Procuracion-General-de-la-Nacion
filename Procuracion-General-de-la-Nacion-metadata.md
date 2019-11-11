@@ -1,9 +1,9 @@
-Procuración General de la Nación
-================================
+Procuración General de la Nación - Casos
+========================================
 
 En este conjunto de datos se presentan los datos elaborados a partir de datos primarios remitidos por la Procuración General de la Nación, siguiendo el [Protocolo Técnico de Datos y de Procesos](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf), en el marco del [Convenio Interjurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf).
 
-http://datos.jus.gob.ar/dataset/procuracion-general-de-la-nacion
+http://datos.jus.gob.ar/dataset/procuracion-general-de-la-nacion-casos
 
 Características
 ---------------
