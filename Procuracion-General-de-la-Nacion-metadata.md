@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** Procuración General de la Nación, casos, código penal, delitos, instituciones, justicia federal
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
+-   **Organización:** Ministerio de Justicia
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
+-   **Autor:** Ministerio de Justicia
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
+-   **Responsable:** Ministerio de Justicia
 
 -   **Grupo:** Instituciones de Justicia
 
@@ -81,7 +81,7 @@ Recursos disponibles
 
 -   **delito_estadistico (string):** agrupación efectuada con fines estadísticos a partir de los delitos informados
 
--   **fecha_envio (string):** fecha en que la institución remitió el paquete de datos al Ministerio de Justicia y Derechos Humanos de la Nación
+-   **fecha_envio (string):** fecha en que la institución remitió el paquete de datos al Ministerio de Justicia de la Nación
 
 ### Notas
 
